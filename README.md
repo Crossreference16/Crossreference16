@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Crossreference16
-- 👀 I’m interested in building apps/webistes.
+- 👀 I’m interested in building apps/websites.
 - 🌱 I’m currently learning JavaScript, CSS and HTML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
