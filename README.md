@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khalil Hersi!
 - 👀 I’m interested in building apps/websites.
-- 🌱 My stack is: learning Java, SQL, JavaScript, React, Node.js, CSS and HTML.
+- 🌱 My stack is: Java, Spring, SQL, JavaScript, React, Node.js, CSS and HTML.
 - 📫 How to reach me khalil.hersi@outlook.com
 
 <!---
