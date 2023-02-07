@@ -1,5 +1,3 @@
-
-
 <div align="center">
 <h1> Greetings! Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
 <a href="https://www.linkedin.com/in/khalil-h-bb487125a/" target="_blank">
