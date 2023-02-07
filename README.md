@@ -52,7 +52,7 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css"></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript"></a>
 <a margin="10" href="[https://getbootstrap.com](https://docs.spring.io/spring-framework/docs/current/reference/html/)" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png" alt="spring"></a>
-<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="" alt="tailwind"></a>
+
 
  
  
@@ -72,12 +72,8 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 
 
 
-<a margin="10" href="https://www.jetbrains.com/youtrack/" target="_blank"><img margin="10px" height="40" src="" alt="yourtrack"></a>
-<br />
-<br />
-
-
-<a margin="10" href="https://spring.io/" target="_blank"><img margin="10px" height="40" src="" alt="express"></a>
+<a margin="10" href="https://eriqande.github.io/eca-bioinf-handbook/essential-unixlinux-terminal-knowledge.html" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1200px-Octicons-terminal.svg.png" alt="terminal"></a>
+<a margin="10" href="https://github.com/Crossreference16" target="_blank"><img margin="10px" height="40" src="https://github.com/Crossreference16" alt="github></a>
 </div>
 <br />
 <br />
