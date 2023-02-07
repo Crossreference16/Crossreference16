@@ -12,8 +12,8 @@
 <br /> 
 <br />
 👋 Hi, I’m Khalil!
-
-
+<br><br/>
+<br><br/>
 I'm a Full Stack Developer with hands-on experience designing, developing and implementing applications and projects using a range of technologies and programming languages.
 <br />
 <br><br/>
