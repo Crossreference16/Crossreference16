@@ -80,8 +80,6 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 
 <div align="center">
 <br />
- 
-
 </div>
 <h1></h1>
  
