@@ -54,8 +54,8 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="" alt="javascript"></a>
 <a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="" alt="bootstrap"></a>
 <a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="" alt="tailwind"></a>
-<a margin="10" href="[https://sass-lang.com](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" target="_blank"><img margin="10px" height="40" src="![javascript](https://user-images.githubusercontent.com/97889980/217124504-455ab965-2fef-4539-9e73-170d4276d615.svg)
-" alt="sass"></a>
+<a margin="10" href="[https://sass-lang.com](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" target="_blank"><img margin="10px" height="40" src="https://user-images.githubusercontent.com/97889980/217124504-455ab965-2fef-4539-9e73-170d4276d615.svg
+" alt="JavaScript"></a>
  
  
 <br />
