@@ -75,8 +75,7 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 <a margin="10" href="https://github.com/Crossreference16" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github"></a>
 <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma"></a>
 </div>
-<br />
-<br />
+
 
 <div align="center">
 <br />
