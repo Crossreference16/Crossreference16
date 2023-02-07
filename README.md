@@ -7,9 +7,9 @@
  <img src=https://img.shields.io/badge/codewars-%2300acee.svg?color=8B0000&style=for-the-badge&logo=red alt=CodeWars style="margin-bottom: 5px;" />
  </a>
 <br />
-<br />
 
- <h3><b>👋 Hi, I’m Khalil!</b></h3>
+
+ <h3><b>👋 Hi, I’m Khalil!</b></h3> <br />
  
  ![4me's](https://user-images.githubusercontent.com/97889980/217129619-52a49b0e-c864-4791-9520-de3289ba7fa9.gif)
 
