@@ -88,7 +88,7 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 ----------------------------------------------------------------------------------------------------------------------------------
  
  <p">
- <img src="https://i.gifer.com/1iDs.gif"/>
+ <img src=https://i.gifer.com/1iDs.gif>
 </p> 
 
 
