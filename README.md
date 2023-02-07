@@ -87,7 +87,8 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 </div>
 ----------------------------------------------------------------------------------------------------------------------------------
  
- ![05b](https://user-images.githubusercontent.com/97889980/217138348-582ee8ec-0817-4d63-9b23-7d796ad8bdd7.gif)
+ ![05b](https://user-images.githubusercontent.com/97889980/217138348-582ee8ec-0817-4d63-9b23-7d796ad8bdd7.gif)![zoom](https://user-images.githubusercontent.com/97889980/217138479-fbb1ceca-12f7-4d5c-bbdf-e00c4b2a2cd5.gif)
+
 
 <div align="center">
 Credit: [Crossreference16](https://github.com/Crossreference16)
