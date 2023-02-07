@@ -8,7 +8,7 @@
 
 <br />
 <br />
-<a href="https://www.codewars.com/users/khalil.hersi" target="_blank" alt="My Codewars ">
+<a href="https://www.codewars.com/users/khalil.hersi" target="_blank" alt="My Codewars "> CodeWars! </a>
 <br /> 
 
 👋 Hi, I’m Khalil!
