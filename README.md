@@ -83,7 +83,7 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
  
 
 </div>
-----------------------------------------------------------------------------------------------------------------------------------
+<h1></h1>
  
  <p align="center">
   <img src="https://user-images.githubusercontent.com/97889980/217138348-582ee8ec-0817-4d63-9b23-7d796ad8bdd7.gif" />
