@@ -88,7 +88,7 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 ----------------------------------------------------------------------------------------------------------------------------------
  
  <div align="center">
- ![05b](https://user-images.githubusercontent.com/97889980/217138348-582ee8ec-0817-4d63-9b23-7d796ad8bdd7.gif)![1iDs](https://user-
+ <img src="https://i.gifer.com/1iDs.gif">
 </div> 
 
 
