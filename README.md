@@ -11,8 +11,7 @@
 <a> ref="https://www.codewars.com/users/khalil.hersi" alt="My Codewars "<a/>
 <br /> 
 <br />
-
-                                                            👋 Hi, I’m Khalil!
+👋 Hi, I’m Khalil!
 
 
 I'm a Full Stack Developer with hands-on experience designing, developing and implementing applications and projects using a range of technologies and programming languages.
