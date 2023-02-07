@@ -12,6 +12,9 @@
 <br /> 
 <br />
 👋 Hi, I’m Khalil!
+ 
+ ![4me's](https://user-images.githubusercontent.com/97889980/217129619-52a49b0e-c864-4791-9520-de3289ba7fa9.gif)
+
 <br><br/>
 <br><br/>
 I'm a Full Stack Developer with hands-on experience designing, developing and implementing applications and projects using a range of technologies and programming languages.
@@ -87,7 +90,7 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 Credit: [Crossreference16](https://github.com/Crossreference16)
 </div>
 
-![zoom](https://user-images.githubusercontent.com/97889980/217129514-1814b1e3-de09-43fe-9e37-3feaf837bd3e.gif)![4me's](https://user-images.githubusercontent.com/97889980/217129522-e8252333-f9e3-4f57-85b3-4004cf0de587.gif)
+![zoom](https://user-images.githubusercontent.com/97889980/217129573-543a4d40-6668-41c0-b386-2520dfe7fd0d.gif)
 
 
 
