@@ -16,7 +16,7 @@
 <br><br/>
 I'm a Full Stack Developer with hands-on experience designing, developing and implementing applications and projects using a range of technologies and programming languages.
 <br />
-<br><br/>
+
 I'm currently based in **[London, England.](https://www.google.com/maps/place/London/@51.5285582,-0.2416799,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5072178!4d-0.1275862)**
 
 
