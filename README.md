@@ -8,9 +8,9 @@
 
 <br />
 <br />
-<a href="https://www.codewars.com/users/khalil.hersi" alt="My Codewars ">
+<a href="https://www.codewars.com/users/khalil.hersi" target="_blank" alt="My Codewars ">
 <br /> 
-<br />
+
 👋 Hi, I’m Khalil!
  
  ![4me's](https://user-images.githubusercontent.com/97889980/217129619-52a49b0e-c864-4791-9520-de3289ba7fa9.gif)
