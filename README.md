@@ -8,7 +8,9 @@
 
 <br />
 <br />
-<a href="https://www.codewars.com/users/khalil.hersi" target="_blank" alt="My Codewars "> CodeWars! </a>
+<a href="https://www.codewars.com/users/khalil.hersi" target="_blank" alt="My Codewars "> 
+ <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=red alt=CodeWars style="margin-bottom: 5px;" />
+ </a>
 <br /> 
 
 👋 Hi, I’m Khalil!
