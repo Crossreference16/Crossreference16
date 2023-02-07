@@ -6,7 +6,7 @@
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.codewars.com/users/khalil.hersi" target="_blank" alt="My Codewars "> 
- <img src=https://img.shields.io/badge/codewars-%2300acee.svg?color=8B0000&style=for-the-badge&logo=linkedin&logoColor=red alt=CodeWars style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/codewars-%2300acee.svg?color=8B0000&style=for-the-badge&logo=red alt=CodeWars style="margin-bottom: 5px;" />
  </a>
 <br />
 <br />
