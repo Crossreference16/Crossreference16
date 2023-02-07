@@ -5,12 +5,12 @@
 <a href="https://www.linkedin.com/in/khalil-h-bb487125a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
-<br />
-<br />
 <a href="https://www.codewars.com/users/khalil.hersi" target="_blank" alt="My Codewars "> 
- <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=red alt=CodeWars style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/codewars-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=red alt=CodeWars style="margin-bottom: 5px;" />
  </a>
+<br />
+<br />
+
 <br /> 
 
 👋 Hi, I’m Khalil!
