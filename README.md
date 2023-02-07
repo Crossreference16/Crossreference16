@@ -90,7 +90,9 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 Credit: [Crossreference16](https://github.com/Crossreference16)
 </div>
 
-![zoom](https://user-images.githubusercontent.com/97889980/217129573-543a4d40-6668-41c0-b386-2520dfe7fd0d.gif)
+![zoom](https://user-images.githubusercontent.com/97889980/217129573-543a4d40-6668-41c0-b386-2520dfe7fd0d.gif)![raikou](https://user-images.githubusercontent.com/97889980/217130490-b149bc29-7e91-480d-b4c5-4d2b7d67abb6.gif)![entei](https://user-images.githubusercontent.com/97889980/217130500-7566b660-b919-4dd5-916b-77bb84a6c160.gif)
+
+
 
 
 
