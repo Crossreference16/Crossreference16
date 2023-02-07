@@ -73,7 +73,7 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 
 
 <a margin="10" href="https://eriqande.github.io/eca-bioinf-handbook/essential-unixlinux-terminal-knowledge.html" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1200px-Octicons-terminal.svg.png" alt="terminal"></a>
-<a margin="10" href="https://github.com/Crossreference16" target="_blank"><img margin="10px" height="40" src="https://github.com/Crossreference16" alt="github></a>
+<a margin="10" href="https://github.com/Crossreference16" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github></a>
 </div>
 <br />
 <br />
