@@ -87,9 +87,9 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 </div>
 ----------------------------------------------------------------------------------------------------------------------------------
  
- <p">
- <img src=https://i.gifer.com/1iDs.gif>
-</p> 
+ <p align="center">
+  <img src="https://i.gifer.com/1iDs.gif" alt="animated" />
+</p>
 
 
 <div align="center">
