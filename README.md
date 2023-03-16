@@ -74,6 +74,11 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 <a margin="10" href="https://eriqande.github.io/eca-bioinf-handbook/essential-unixlinux-terminal-knowledge.html" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1200px-Octicons-terminal.svg.png" alt="terminal"></a>
 <a margin="10" href="https://github.com/Crossreference16" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github"></a>
 <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma"></a>
+<br />
+ 
+<a margin="10" href="https://docs.docker.com" target="_blank"><img margin="10px" height="40" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing.png" alt="docker"></a>
+<a margin="10" href="https://kubernetes.io/docs/home" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="kubernetes"></a>
+ 
 </div>
 
 
