@@ -78,6 +78,9 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
  
 <a margin="10" href="https://docs.docker.com" target="_blank"><img margin="10px" height="40" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing.png" alt="docker"></a>
 <a margin="10" href="https://kubernetes.io/docs/home" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="kubernetes"></a>
+<a margin="10" href="https://docs.aws.amazon.com/" target="_blank"><img margin="10px" height="40" src="https://cutewallpaper.org/24/aws-logo-png/to-aws-aws-cloud-icon-transparent-pngamazon-web-services-logo-png-free-transparent-png-images-pngaaacom.png" alt="aws"></a>
+ 
+ 
  
 </div>
 
