@@ -33,7 +33,10 @@ Please feel free to clone/fork projects, raise issues and submit pull requests i
 Got something to ask? Feel free to click **[here](https://github.com/Crossreference16/Crossreference16/issues)** or <a href="mailto:khalil.hersi@outlook.com"><b>send me an email</b></a>.
 <br />
 <br />
-
+**Happy Coding!** 😊
+ <br />
+<br />
+ 
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Crossreference16&layout=compact&theme=dark&bg_color=0A0A0A">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crossreference16&layout=compact&theme=dark&bg_color=0A0A0A" alt="Khalil's Top Languages">
 </a>
@@ -47,10 +50,9 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 
 
 <br />
-<br />
-<br />
 
-**Happy Coding!** 😊
+
+
 <br />
 <br />
 <br />
