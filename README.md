@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Greetings! Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
+<h1> Hi! Welcome to my Github profile, I'm Khalil! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
 <a href="https://www.linkedin.com/in/khalil-h-bb487125a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -8,7 +8,7 @@
  </a>
 <br />
 
-<h1 style="border-bottom: none; padding-bottom: 0;"><b>👋 Hi, I’m Khalil!!</b></h1>
+<!-- <h1 style="border-bottom: none; padding-bottom: 0;"><b>👋 Hi, I’m Khalil!!</b></h1> -->
 
  ![4me's](https://user-images.githubusercontent.com/97889980/217129619-52a49b0e-c864-4791-9520-de3289ba7fa9.gif)
  
