@@ -9,7 +9,7 @@
 <br />
 
 
- <h3><b>👋 Hi, I’m Khalil!!</b></h3> <br />
+ <h2><b>👋 Hi, I’m Khalil!!</b></h2> <br />
  
  ![4me's](https://user-images.githubusercontent.com/97889980/217129619-52a49b0e-c864-4791-9520-de3289ba7fa9.gif)
 
