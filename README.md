@@ -12,6 +12,8 @@
  <h4><b>👋 Hi, I’m Khalil!!</b></h4> 
  
  ![4me's](https://user-images.githubusercontent.com/97889980/217129619-52a49b0e-c864-4791-9520-de3289ba7fa9.gif)
+ 
+ <h4><b>👋 Hi, I’m Khalil!!</b></h4> 
 
 <br><br/>
 I'm a Site Reliability Engineer who started off as a Full Stack Developer. I have hands-on experience designing, developing and implementing applications and projects using a range of technologies and programming languages.
