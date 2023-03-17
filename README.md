@@ -29,8 +29,8 @@ I love learning new technologies and getting familiar with different tools. I al
 Please feel free to clone/fork projects, raise issues and submit pull requests if you think something could be better.<br />
 <br><br/>
  <br />
- <br />
 Got something to ask? Feel free to click **[here](https://github.com/Crossreference16/Crossreference16/issues)** or <a href="mailto:khalil.hersi@outlook.com"><b>send me an email</b></a>.
+<br />
 <br />
 <br />
 **Happy Coding!** 😊
