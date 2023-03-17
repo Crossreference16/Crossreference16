@@ -40,6 +40,7 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Crossreference16&layout=compact&theme=dark&bg_color=0A0A0A">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crossreference16&layout=compact&theme=dark&bg_color=0A0A0A" alt="Khalil's Top Languages">
 </a>
+<a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Crossreference16"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Crossreference16" alt="Top Languages"></a>
 
 
 
