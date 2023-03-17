@@ -17,7 +17,7 @@
  
 
 <h3><b>👋 Greetings, all!</b></h3> <br />
-As a Full Stack Developer-turned-Site Reliability Engineer, I possess a wealth of hands-on experience in designing, developing, and implementing applications and projects utilizing an array of programming languages and technologies.
+Having started out as a Full Stack Developer and now working as a Site Reliability Engineer, I possess a wealth of hands-on experience in designing, developing, and implementing applications and projects utilizing an array of programming languages and technologies.
 <br />
 <br />
  
