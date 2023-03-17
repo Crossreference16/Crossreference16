@@ -35,7 +35,8 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 <br />
 <br />
 <br />
-**Happy Coding!** 😊
+<!-- **Happy Coding!** 😊 -->
+<h3><b>Happy Coding! 😊</b></h3>
  <br />
 <br />
  
