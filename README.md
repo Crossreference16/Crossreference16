@@ -96,11 +96,11 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 <a margin="10" href="https://kubernetes.io/docs/home" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="kubernetes"></a>
 <a margin="10" href="https://docs.aws.amazon.com/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws"></a>
 <a margin="10" href="https://developer.hashicorp.com/terraform/docs" target="_blank"><img margin="20px" height="50" src="https://www.svgrepo.com/show/376353/terraform.svg" alt="terraform"></a>
+
+</div>
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Crossreference16&layout=compact&theme=dark&bg_color=0A0A0A&card_width=500">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crossreference16&layout=compact&theme=dark&bg_color=0A0A0A&card_width=500&cache_seconds=1800" alt="Khalil's Top Languages">
 </a>
-</div>
-
 
 <div align="center">
 <br />
