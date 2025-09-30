@@ -17,7 +17,7 @@
  
 
 <h3><b>👋 Greetings, all!</b></h3> <br />
-As a Full Stack Developer, I possess a wealth of hands-on experience in designing, developing, and implementing applications and projects utilizing an array of programming languages and technologies.
+As a Cloud Engineer, I bring hands-on experience in architecting, deploying, and optimizing scalable cloud infrastructures and solutions using a wide range of platforms, tools, and automation technologies. I also have here various projects utilizing an array of programming languages and other technologies.
 <br />
 <br />
  
@@ -25,7 +25,7 @@ I'm currently based in **[London, England.](https://www.google.com/maps/place/Lo
 
 
 <br />
-I love learning new technologies and getting familiar with different tools. I also love drinking tea while I code.
+I love learning new technologies and getting familiar with different tools. I also love drinking a cuppa while I code.
 <br />
 <br />
 
