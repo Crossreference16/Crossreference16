@@ -25,7 +25,7 @@ I'm currently based in **[London, England.](https://www.google.com/maps/place/Lo
 
 
 <br />
-I love learning new technologies and getting familiar with different tools. I also love drinking a cuppa while I code.
+I love learning new technologies and getting familiar with different tools. I also love drinking a cuppa while I work on projects.
 <br />
 <br />
 
