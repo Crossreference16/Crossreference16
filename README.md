@@ -17,7 +17,7 @@
  
 
 <h3><b>👋 Greetings, all!</b></h3> <br />
-As a Cloud Engineer, I bring hands-on experience in architecting, deploying, and optimizing scalable cloud infrastructures and solutions using a wide range of platforms, tools, and automation technologies. I also have here various projects utilizing an array of programming languages and other technologies.
+As a Cloud Engineer, I bring hands-on experience in architecting, deploying, and optimizing scalable cloud infrastructures and solutions using a wide range of platforms, tools, and automation technologies. I also have here various projects utilizing various programming languages and technologies.
 <br />
 <br />
  
