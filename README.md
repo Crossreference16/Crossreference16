@@ -46,10 +46,6 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Crossreference16&include_all_commits=true&count_public=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Khalil's Github Stats"> -->
 <br />
 <br />
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Crossreference16&layout=compact&theme=dark&bg_color=0A0A0A&card_width=500">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crossreference16&layout=compact&theme=dark&bg_color=0A0A0A&card_width=500" alt="Khalil's Top Languages">
-</a>
-
 
 
 
@@ -67,6 +63,10 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 <div align="center">
 
 ## Tech Stack
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Crossreference16&layout=compact&theme=dark&bg_color=0A0A0A&card_width=500">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crossreference16&layout=compact&theme=dark&bg_color=0A0A0A&card_width=500&cache_seconds=1800" alt="Khalil's Top Languages">
+</a>
+
 
 <br />
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html"></a>
