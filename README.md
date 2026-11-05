@@ -62,7 +62,7 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 
 <div align="center">
 
-## Tech Stack
+<!--## Tech Stack
 
 <p align="center">
   <img src="https://shields.io" alt="html" />
@@ -104,7 +104,7 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crossreference16&layout=compact&theme=dark&bg_color=0A0A0A&card_width=500&cache_seconds=1800" alt="Khalil's Top Languages">
 </a>
 <br />
-</div>
+</div>  -->
 <h1></h1>
  
  <p align="center">
