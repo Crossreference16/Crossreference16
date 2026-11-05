@@ -65,31 +65,28 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 ## Tech Stack
 
 <br />
-<img src="https://jsdelivr.net" height="40" alt="html" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="css" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="javascript" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="java" /> &nbsp;
-<img src="https://vectorlogo.zone" height="40" alt="cisco" />
+<img src="https://shields.io" alt="html" />
+<img src="https://shields.io" alt="css" />
+<img src="https://shields.io" alt="javascript" />
+<img src="https://shields.io" alt="java" />
+<img src="https://shields.io" alt="cisco" />
 
 <br />
-<br />
-<img src="https://jsdelivr.net" height="40" alt="spring" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="react" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="node js" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="postgreSQL" />
+<img src="https://shields.io" alt="spring" />
+<img src="https://shields.io" alt="react" />
+<img src="https://shields.io" alt="node js" />
+<img src="https://shields.io" alt="postgreSQL" />
 
 <br />
-<br />
-<img src="https://jsdelivr.net" height="40" alt="linux" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="github" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="figma" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="docker" />
+<img src="https://shields.io" alt="terminal" />
+<img src="https://shields.io" alt="github" />
+<img src="https://shields.io" alt="figma" />
+<img src="https://shields.io" alt="docker" />
 
 <br />
-<br />
-<img src="https://jsdelivr.net" height="40" alt="kubernetes" /> &nbsp;
-<img src="https://vectorlogo.zone" height="40" alt="aws" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="terraform" />
+<img src="https://shields.io" alt="kubernetes" />
+<img src="https://shields.io" alt="aws" />
+<img src="https://shields.io" alt="terraform" />
 
 <br />
 <br />
