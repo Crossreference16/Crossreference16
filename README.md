@@ -17,7 +17,7 @@
  
 
 <h3><b>👋 Greetings, all!</b></h3> <br />
-I am an IT Support Professional actively engineering hands-on network topologies and infrastructure blueprints. Currently mastering the Cisco CCNA syllabus, I focus on building core routing, switching, and secure endpoint solutions using virtualized emulation, scripting, and automation technologies.
+I am an IT Professional actively engineering hands-on network topologies and infrastructure blueprints. Currently mastering the Cisco CCNA syllabus, I focus on building core routing, switching, and secure endpoint solutions using virtualized emulation, scripting, and automation technologies.
 <br />
 <br />
  
