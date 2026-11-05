@@ -64,31 +64,29 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 
 ## Tech Stack
 
-
+<br />
+<img src="https://shields.io" alt="html" />
+<img src="https://shields.io" alt="css" />
+<img src="https://shields.io" alt="javascript" />
+<img src="https://shields.io" alt="java" />
+<img src="https://shields.io" alt="cisco" />
 
 <br />
-<img src="https://shields.io" height="28" alt="html" />
-<img src="https://shields.io" height="28" alt="css" />
-<img src="https://shields.io" height="28" alt="javascript" />
-<img src="https://shields.io" height="28" alt="java" />
-<img src="https://shields.io" height="28" alt="cisco" />
+<img src="https://shields.io" alt="spring" />
+<img src="https://shields.io" alt="react" />
+<img src="https://shields.io" alt="node js" />
+<img src="https://shields.io" alt="postgreSQL" />
 
 <br />
-<img src="https://shields.io" height="28" alt="spring" />
-<img src="https://shields.io" height="28" alt="react" />
-<img src="https://shields.io" height="28" alt="node js" />
-<img src="https://shields.io" height="28" alt="postgreSQL" />
+<img src="https://shields.io" alt="linux" />
+<img src="https://shields.io" alt="github" />
+<img src="https://shields.io" alt="figma" />
+<img src="https://shields.io" alt="docker" />
 
 <br />
-<img src="https://shields.io" height="28" alt="terminal" />
-<img src="https://shields.io" height="28" alt="github" />
-<img src="https://shields.io" height="28" alt="figma" />
-<img src="https://shields.io" height="28" alt="docker" />
-
-<br />
-<img src="https://shields.io" height="28" alt="kubernetes" />
-<img src="https://shields.io" height="28" alt="aws" />
-<img src="https://shields.io" height="28" alt="terraform" />
+<img src="https://shields.io" alt="kubernetes" />
+<img src="https://shields.io" alt="aws" />
+<img src="https://shields.io" alt="terraform" />
 
 <br />
 <br />
