@@ -1,34 +1,61 @@
 <div align="center">
-<h1> Hi, Welcome to my GitHub profile! <img src="https://githubusercontent.com" width="30"></h1>
-<a href="https://www.linkedin.com/in/khalil-h-bb487125a/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+<h1> Hi, Welcome to my Github profile! <img src="https://github.com" width="30"></h1>
+<a href="https://linkedin.com" target="_blank">
+<img src=https://shields.io alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.codewars.com/users/khalil.hersi" target="_blank" alt="My Codewars "> 
- <img src="https://shields.io" alt="CodeWars" style="margin-bottom: 5px;" />
+<a href="https://codewars.com" target="_blank" alt="My Codewars "> 
+ <img src=https://shields.io alt=CodeWars style="margin-bottom: 5px;" />
  </a>
 <br />
+
+<!-- <h1 style="border-bottom: none; padding-bottom: 0;"><b>👋 Hi, I’m Khalil!!</b></h1> -->
 <br />
  
+ ![4me's](https://githubusercontent.com)
+ 
+
+ 
+
 <h3><b>👋 Greetings, all!</b></h3> <br />
-I am an IT Support Professional actively engineering hands-on network topologies and infrastructure blueprints. Currently mastering the Cisco CCNA syllabus, I focus on building core routing, switching, and secure endpoint solutions using virtualized emulation, scripting, and automation technologies.
+I bring hands-on experience in configuring, deploying, and optimizing reliable network topologies, configurations, and endpoint systems. I am actively working through the Cisco CCNA syllabus while building and tracking various infrastructure and systems management projects using a wide range of platforms, tools, and automation technologies.
 <br />
 <br />
  
 I'm currently based in **[London, England.](https://google.com)**
 
+
 <br />
-I love learning new technologies, breaking down complex network protocols, and figuring out how everything connects under the hood. 
+I love learning new technologies and getting familiar with different tools. I also love drinking a cuppa while I work on projects.
 <br />
 <br />
 
-Please feel free to clone/fork projects, raise issues, and submit pull requests if you think something could be optimized!<br />
+Please feel free to clone/fork projects, raise issues and submit pull requests if you think something could be better.<br />
+<br><br/>
+Got something to ask? Feel free to click **[here](https://github.com)** or <a href="mailto:khalil.hersi@outlook.com"><b>send me an email</b></a>.
 <br />
-Got something to ask? Feel free to click **[here](https://github.com/Crossreference16/Crossreference16/issues)** or <a href="mailto:khalil.hersi@outlook.com"><b>send me an email</b></a>.
 <br />
 <br />
-<br />
+<!-- **Happy Coding!** 😊 -->
 <h3><b>Happy Building! 😊</b></h3>
 
+
+
+
+</a>
+
+<!-- <img align="center" src="https://vercel.app" alt="Khalil's Github Stats"> -->
+
+<br />
+
+
+
+
+
+<br />
+
+
+
+<br />
 <br />
 <br />
 </div>
@@ -37,37 +64,56 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 
 ## Tech Stack
 
+
+
 <br />
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://jsdelivr.net" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://jsdelivr.net" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://jsdelivr.net" alt="javascript"></a>
-<a margin="10" href="https://docs.oracle.com/en/java/" target="_blank"><img margin="10px" height="40" src="https://jsdelivr.net" alt="Java"></a>
+<a margin="10" href="https://mozilla.org" target="_blank"><img margin="10px" height="40" src="https://wikimedia.org" alt="html"></a>
+<a margin="10" href="https://mozilla.org" target="_blank"><img margin="10px" height="40" src="https://wikimedia.org" alt="css"></a>
+<a margin="10" href="https://mozilla.org" target="_blank"><img margin="10px" height="40" src="https://wikimedia.org" alt="javascript"></a>
+<a margin="10" href="https://mui.com](https://oracle.com" target="_blank"><img margin="10px" height="40" src="https://svgrepo.com" alt="Java"></a>
+
+
+ 
  
 <br />
 <br />
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://jsdelivr.net" alt="react"></a>
-<a margin="10" href="https://nodejs.org/en/docs/" target="_blank"><img margin="10px" height="40" src="https://jsdelivr.net" alt="node js"></a>
-<a margin="10" href="https://www.postgresql.org/docs/" target="_blank"><img margin="10px" height="40" src="https://jsdelivr.net" alt="postgreSQL"></a>
-<a margin="10" href="https://www.iso.org/standard/63555.html" target="_blank"><img margin="10px" height="40" src="https://svgrepo.com" alt="SQL"></a>
-
-<br />
-<br /> 
-<a margin="10" href="https://eriqande.github.io/eca-bioinf-handbook/essential-unixlinux-terminal-knowledge.html" target="_blank"><img margin="10px" height="40" src="https://jsdelivr.net" alt="terminal"></a>
-<a margin="10" href="https://github.com/Crossreference16" target="_blank"><img margin="10px" height="40" src="https://jsdelivr.net" alt="github"></a>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://jsdelivr.net" alt="figma"></a>
-<a margin="10" href="https://docs.docker.com" target="_blank"><img margin="10px" height="40" src="https://jsdelivr.net" alt="docker"></a>
+<a margin="10" href="[https://getbootstrap.com](https://spring.io)" target="_blank"><img margin="10px" height="40" src="https://wikimedia.org" alt="spring"></a>
+<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://wikimedia.org" alt="react"></a>
+<a margin="10" href="https://nextjs.org](https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://seeklogo.com" alt="node js"></a>
 
 <br />
 <br />
-<a margin="10" href="https://kubernetes.io/docs/home" target="_blank"><img margin="10px" height="40" src="https://jsdelivr.net" alt="kubernetes"></a>
-<a margin="10" href="https://docs.aws.amazon.com/" target="_blank"><img margin="10px" height="40" src="https://jsdelivr.net" alt="aws"></a>
-<a margin="10" href="https://developer.hashicorp.com/terraform/docs" target="_blank"><img margin="10px" height="40" src="https://jsdelivr.net" alt="terraform"></a>
+<a margin="10" href="https://jetbrains.com](https://postgresql.org" target="_blank"><img margin="10px" height="40" src="https://wikimedia.org" alt="postgreSQL"></a>
+<a margin="10" href="https://svelte.dev](https://iso.org" target="_blank"><img margin="10px" height="40" src="https://svgrepo.com" alt="SQL"></a>
+<br />
+ 
+<a margin="10" href="https://github.io" target="_blank"><img margin="10px" height="40" src="https://wikimedia.org" alt="terminal"></a>
+<a margin="10" href="https://github.com" target="_blank"><img margin="10px" height="40" src="https://wikimedia.org" alt="github"></a>
+<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://wikimedia.org" alt="figma"></a>
+<br />
+ 
+<a margin="10" href="https://docker.com" target="_blank"><img margin="10px" height="40" src="https://docker.com" alt="docker"></a>
+<a margin="10" href="https://kubernetes.io" target="_blank"><img margin="10px" height="40" src="https://wikimedia.org" alt="kubernetes"></a>
+<a margin="10" href="https://amazon.com" target="_blank"><img margin="10px" height="40" src="https://wikimedia.org" alt="aws"></a>
+<a margin="10" href="https://hashicorp.com" target="_blank"><img margin="20px" height="50" src="https://svgrepo.com" alt="terraform"></a>
 
-<br />
-<br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crossreference16&layout=compact&theme=dark&bg_color=0A0A0A&card_width=500&cache_seconds=1800" alt="Khalil's Top Languages">
 
+<div align="center">
+ </div>
+ <a href="https://vercel.app">
+  <img src="https://vercel.app&cache_seconds=1800" alt="Khalil's Top Languages">
+</a>
 <br />
-<br />
+</div>
+<h1></h1>
+ 
+ <p align="center">
+  <img src="https://githubusercontent.com" />
+</p>
+
+
+<div align="center">
+Credit: [Crossreference16](https://github.com)
+ 
 </div>
