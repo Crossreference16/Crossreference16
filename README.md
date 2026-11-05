@@ -67,35 +67,32 @@ Got something to ask? Feel free to click **[here](https://github.com/Crossrefere
 
 
 <br />
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript"></a>
-<a margin="10" href="https://mui.com](https://docs.oracle.com/en/java/" target="_blank"><img margin="10px" height="40" src="https://www.svgrepo.com/show/184143/java.svg" alt="Java"></a>
-
-
- 
- 
-<br />
-<br />
-<a margin="10" href="[https://getbootstrap.com](https://docs.spring.io/spring-framework/docs/current/reference/html/)" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png" alt="spring"></a>
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react"></a>
-<a margin="10" href="https://nextjs.org](https://nodejs.org/en/docs/" target="_blank"><img margin="10px" height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="node js"></a>
+<img src="https://shields.io" height="28" alt="html" />
+<img src="https://shields.io" height="28" alt="css" />
+<img src="https://shields.io" height="28" alt="javascript" />
+<img src="https://shields.io" height="28" alt="java" />
+<img src="https://shields.io" height="28" alt="cisco" />
 
 <br />
+<img src="https://shields.io" height="28" alt="spring" />
+<img src="https://shields.io" height="28" alt="react" />
+<img src="https://shields.io" height="28" alt="node js" />
+<img src="https://shields.io" height="28" alt="postgreSQL" />
+
 <br />
-<a margin="10" href="https://www.jetbrains.com/youtrack/](https://www.postgresql.org/docs/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgreSQL"></a>
-<a margin="10" href="https://svelte.dev](https://www.iso.org/standard/63555.html" target="_blank"><img margin="10px" height="40" src="https://www.svgrepo.com/download/331760/sql-database-generic.svg" alt="SQL"></a>
+<img src="https://shields.io" height="28" alt="terminal" />
+<img src="https://shields.io" height="28" alt="github" />
+<img src="https://shields.io" height="28" alt="figma" />
+<img src="https://shields.io" height="28" alt="docker" />
+
 <br />
- 
-<a margin="10" href="https://eriqande.github.io/eca-bioinf-handbook/essential-unixlinux-terminal-knowledge.html" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1200px-Octicons-terminal.svg.png" alt="terminal"></a>
-<a margin="10" href="https://github.com/Crossreference16" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github"></a>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma"></a>
+<img src="https://shields.io" height="28" alt="kubernetes" />
+<img src="https://shields.io" height="28" alt="aws" />
+<img src="https://shields.io" height="28" alt="terraform" />
+
 <br />
- 
-<a margin="10" href="https://docs.docker.com" target="_blank"><img margin="10px" height="40" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker"></a>
-<a margin="10" href="https://kubernetes.io/docs/home" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="kubernetes"></a>
-<a margin="10" href="https://docs.aws.amazon.com/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws"></a>
-<a margin="10" href="https://developer.hashicorp.com/terraform/docs" target="_blank"><img margin="20px" height="50" src="https://www.svgrepo.com/show/376353/terraform.svg" alt="terraform"></a>
+<br />
+<br />
 
 
 
