@@ -17,7 +17,7 @@
  
 
 <h3><b>👋 Greetings, all!</b></h3> <br />
-As a Cloud Engineer, I bring hands-on experience in architecting, deploying, and optimizing scalable cloud infrastructures and solutions using a wide range of platforms, tools, and automation technologies. I also have here various projects utilizing various programming languages and technologies.
+I am an IT Support Professional actively engineering hands-on network topologies and infrastructure blueprints. Currently mastering the Cisco CCNA syllabus, I focus on building core routing, switching, and secure endpoint solutions using virtualized emulation, scripting, and automation technologies.
 <br />
 <br />
  
@@ -25,7 +25,7 @@ I'm currently based in **[London, England.](https://www.google.com/maps/place/Lo
 
 
 <br />
-I love learning new technologies and getting familiar with different tools. I also love drinking a cuppa while I work on projects.
+I love learning new technologies, breaking down complex network protocols, figuring out how everything connects under the hood and getting familiar with different tools. I also love drinking a cuppa while I work on projects.
 <br />
 <br />
 
